@@ -1,0 +1,51 @@
+{
+  "format": "korean-hanoi-save",
+  "version": 2,
+  "exportedAt": "2026-11-06T08:50:55.549Z",
+  "data": {
+    "koreanHanoiCharacterV2": {
+      "ko": "하은",
+      "latin": "Lee HaEun"
+    },
+    "koreanHanoiProgressV3": {
+      "xp": 760,
+      "coins": 270,
+      "completed": true
+    },
+    "koreanHanoiPositionV5": {
+      "x": -5,
+      "z": -7
+    },
+    "koreanHanoiCafeCompletedV5": true,
+    "koreanHanoiBakeryCompletedV7": true,
+    "koreanHanoiShopCompletedV6": true,
+    "koreanHanoiExtraCompletedV8": {
+      "ticket": true,
+      "pho": true,
+      "book": true,
+      "museum": true,
+      "park": true,
+      "market": true
+    },
+    "koreanHanoiInventoryV10": {
+      "water": 0,
+      "boots": 1,
+      "dictionary": 1
+    },
+    "koreanHanoiQuizV10": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "koreanHanoiStoriesV11": {
+      "directions": true,
+      "restaurant": true,
+      "friend": true,
+      "market_chat": true,
+      "museum_chat": true,
+      "park_chat": true
+    }
+  }
+}
